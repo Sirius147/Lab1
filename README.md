@@ -27,5 +27,27 @@ __개인 최적화 된 맞춤비서 앱, 일정저장만 해주면 상황에 맞
 
 ### SoongSiri 개요  
 
+![image](https://user-images.githubusercontent.com/91835961/139588339-b3322262-4951-4f8e-81dd-997e4bc1e20a.png)
 
-<img src="https://github.com/Sirius147/Lab1/blob/main/doc/outline.png" width="300", height="200">
+
+#### 구현 방법과 개선점
+
+> GUI로 캘린더를 user에게 제공해야한다. 
+> > 캘린더속에 일정 관리가 가능 해야한다.
+
+> 일부 일정은 매 요일마다 알림이 실행된다.
+> > 일부 일정은 일회성으로 알림이 실행된다.
+
+> user로부터 1회 알림 이후에 일정 수행여부 feedback을 받아야한다.
+
+> 사용자로부터 입력받은 일정을 객체로서 다룬다.
+-----------------------------------------------
+
+#### Reference
+
+구글 캘린더 공유 및 일정관리 간편하게 끝내자!  
+<https://blog.naver.com/heading100/222431503295>
+
+
+
+
